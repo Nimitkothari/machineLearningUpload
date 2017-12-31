@@ -1,0 +1,6 @@
+https://genericmachinelearningsample.run.aws-usw02-pr.ice.predix.io/predictSize
+https://genericmachinelearningsample.run.aws-usw02-pr.ice.predix.io/predictBedrooms
+https://genericmachinelearningsample.run.aws-usw02-pr.ice.predix.io/predictAge
+https://genericmachinelearningsample.run.aws-usw02-pr.ice.predix.io/predictBathrooms
+https://genericmachinelearningsample.run.aws-usw02-pr.ice.predix.io/predictPrice
+{"Size":3400,"Bedrooms":3,"Age":2,"Bathrooms":2}
